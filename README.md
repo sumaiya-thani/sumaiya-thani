@@ -19,13 +19,12 @@
 
 مطورة برمجيات ومهتمة بالذكاء الاصطناعي التوليدي والأتمتة وبناء المنتجات الرقمية.
 
-I'm a software developer with a Bachelor's in **Learning Innovation and Information Technology** (Rajamangala University of Technology Thanyaburi, Thailand, full scholarship). I build mobile apps, web platforms, and e-commerce systems, and I'm especially interested in how **generative AI** can improve business decisions and digital product development.
+I'm an AI Solutions Engineer and Full-Stack Developer with a Bachelor's in **Learning Innovation and Information Technology** (Rajamangala University of Technology Thanyaburi, Thailand, full scholarship). I build AI-powered, product-minded systems across e-commerce and content platforms, including a complete **RAG pipeline** (n8n, Ollama, Supabase pgvector).
 
-- 🍎 Two years at **Apple Developer Academy | Tuwaiq**, selected among the top 30 of ~200 participants to continue into the second year
-- 🎙️ Software Engineering intern at **Thmanyah**, working on podcast search & discovery
-- 🏛️ Built a Flutter app for the **Ministry of Economy and Planning** (water delivery & sales)
-- 🤖 Worked on AI storytelling systems and web development at **Awa Consulting**
-- 🛒 Full-Stack Developer & E-commerce Systems Analyst: **Salla**, **Zid**, automation, and ERP integration
+- 🛒 **Dos Cookies** (Oct 2025 – Feb 2026): Full-Stack Developer / E-commerce Systems Analyst. API integrations across Salla and Zid, ERP alignment, and 12+ bugs resolved
+- 🤖 **Awa Consulting**: Full-Stack Developer / System Analyst. ASP.NET backend systems and AI storytelling logic
+- 🎙️ **Thmanyah** (Dec 2024 – Feb 2025): Software Developer / Product Analyst, focused on content discovery
+- 🍎 **Apple Developer Academy** (Feb 2023 – Feb 2025): built 8+ iOS apps end to end with Swift and SwiftUI; selected among the top 30 of about 200 participants for the second year
 
 ---
 
@@ -47,17 +46,20 @@ I'm a software developer with a Bachelor's in **Learning Innovation and Informat
 | 📱 Mobile | Swift / SwiftUI, Flutter / Dart |
 | 🌐 Web | Full-stack web development |
 | 🛍️ E-commerce | Salla, Zid, ERP integration |
-| 🧠 AI & Automation | Generative AI, workflow automation, AI storytelling |
+| 🧠 AI & Automation | RAG, AI agents, n8n, Ollama, pgvector, OpenAI API |
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**BrandI**](https://github.com/sumaiya-thani/BrandI) | SwiftUI app that helps content creators organize and manage their social media posts | ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white) |
-| [**Burger Restaurant**](https://github.com/sumaiya-thani/Burger_restaurant_flutter) | Restaurant ordering app built with Flutter | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) |
-| [**Wasilaah**](https://github.com/sumaiya-thani/Wasilaah) | Team project built during the Apple Developer Academy | ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white) |
+| Project | Description | Stack / Status |
+|---------|-------------|----------------|
+| **End-to-End RAG AI Assistant** | Automated pipeline that watches Google Drive, chunks documents, creates embeddings, and serves semantic search with source-cited answers using locally hosted models (Llama 3.2, nomic-embed-text) | n8n, Ollama, Supabase pgvector, Docker |
+| [**BrandI**](https://github.com/sumaiya-thani/BrandI) | Helps content creators stay consistent with their brand identity and organize their posts. Includes an AI content strategy assistant that analyzes brand tone | ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white) App Store |
+| **Shayki** | Helps women who recently started driving with customized oil change schedules and maintenance reminders | iOS, App Store |
+| **Fehid** | A fun iOS platform game | iOS, App Store |
+| **Tashammas** | Helps people raise their vitamin D levels through sun exposure | iOS app |
+| [**Wasilaah**](https://github.com/sumaiya-thani/Wasilaah) | Fintech app for startup founders who struggle to get a company credit card | ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white) |
 
 ---
 
