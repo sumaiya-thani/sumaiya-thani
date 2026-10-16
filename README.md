@@ -19,7 +19,7 @@
 
 مطورة برمجيات ومهتمة بالذكاء الاصطناعي التوليدي والأتمتة وبناء المنتجات الرقمية.
 
-I'm an AI Solutions Engineer and Full-Stack Developer with a Bachelor's in **Learning Innovation and Information Technology** (Rajamangala University of Technology Thanyaburi, Thailand, full scholarship). I build AI-powered, product-minded systems across e-commerce and content platforms, including a complete **RAG pipeline** (n8n, Ollama, Supabase pgvector).
+I'm a **UX Researcher**, AI Solutions Engineer and Full-Stack Developer with a Bachelor's in **Learning Innovation and Information Technology** (Rajamangala University of Technology Thanyaburi, Thailand, full scholarship). I build AI-powered, product-minded systems across e-commerce and content platforms, including a complete **RAG pipeline** (n8n, Ollama, Supabase pgvector).
 
 - 🛒 **Dos Cookies** (Oct 2025 – Feb 2026): Full-Stack Developer / E-commerce Systems Analyst. API integrations across Salla and Zid, ERP alignment, and 12+ bugs resolved
 - 🤖 **Awa Consulting**: Full-Stack Developer / System Analyst. ASP.NET backend systems and AI storytelling logic
@@ -46,6 +46,7 @@ I'm an AI Solutions Engineer and Full-Stack Developer with a Bachelor's in **Lea
 | 📱 Mobile | Swift / SwiftUI, Flutter / Dart |
 | 🌐 Web | Full-stack web development |
 | 🛍️ E-commerce | Salla, Zid, ERP integration |
+| 🔍 UX Research | User interviews, surveys, empathy maps, personas, journey maps, usability testing (Figma, Miro, Maze, Notion) |
 | 🧠 AI & Automation | RAG, AI agents, n8n, Ollama, pgvector, OpenAI API |
 
 ---
@@ -55,11 +56,11 @@ I'm an AI Solutions Engineer and Full-Stack Developer with a Bachelor's in **Lea
 | Project | Description | Stack / Status |
 |---------|-------------|----------------|
 | **End-to-End RAG AI Assistant** | Automated pipeline that watches Google Drive, chunks documents, creates embeddings, and serves semantic search with source-cited answers using locally hosted models (Llama 3.2, nomic-embed-text) | n8n, Ollama, Supabase pgvector, Docker |
-| [**BrandI**](https://github.com/sumaiya-thani/BrandI) | Helps content creators stay consistent with their brand identity and organize their posts. Includes an AI content strategy assistant that analyzes brand tone | ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white) App Store |
-| **Shayki** | Helps women who recently started driving with customized oil change schedules and maintenance reminders | iOS, App Store |
+| [**BrandI**](https://sumaiya-thani.github.io/project-brandi.html) · [code](https://github.com/sumaiya-thani/BrandI) | Helps content creators stay consistent with their brand identity and organize their posts. Includes an AI content strategy assistant that analyzes brand tone | ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white) App Store |
+| **Shayki** | Helps women who recently started driving with customized oil change schedules, maintenance reminders and a Siri oil check | iOS, App Store |
 | **Fehid** | A fun iOS platform game | iOS, App Store |
 | **Tashammas** | Helps people raise their vitamin D levels through sun exposure | iOS app |
-| [**Wasilaah**](https://github.com/sumaiya-thani/Wasilaah) | Fintech app for startup founders who struggle to get a company credit card | ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white) |
+| [**Wasilah**](https://sumaiya-thani.github.io/project-wasilaah.html) · [code](https://github.com/sumaiya-thani/Wasilaah) | Helps startup founders who struggle to get a pre-paid company card document work expenses and cut manual work. Two-month UX case study | ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white) |
 
 ---
 
