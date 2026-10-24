@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img width="100%" src="banner.svg" alt="Sumaiya Sani, Software Developer" />
+<img width="100%" src="banner.png" alt="Sumaiya Sani, Software Developer" />
 
 <div align="center">
 
